@@ -32,15 +32,17 @@ Coffee Shop Dummy Data  from IBM Cognos <br><br>
 
 ### Unsupervised machine learning :
 ![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/recommender.png)
+
 #### 1. Content-based recommender system
-![alt text]()
+![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/Screen%20Shot%202021-03-03%20at%2015.02.46.png)
 
 #### 2. Collaborative filtering recommender system
 ![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/Collaborative%20filtering.png)
 
 #### 3. Customer segmentation
 Use K-Means clustering to determine the cluster of the customers. Number of K was taken from elbow method score and silhouette score (K=4).
-Below is the clustering result :
+Below is the clustering result : <br>
+![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/Screen%20Shot%202021-03-03%20at%2015.03.12.png)
 <br><br>
 
 ### Web-app dashboard :
