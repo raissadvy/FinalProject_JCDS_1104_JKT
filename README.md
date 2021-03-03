@@ -2,12 +2,13 @@
 Final Project Purwadhika Data Science by raissa devy
 
 
-## %ARABICA COFFEE% 
-## Sales Improvement
+## %ARABICA COFFEE% Sales Improvement
 
+<br><br>
 
+### Background problem :
 
-<br><br><br>
+Sales and marketing team was challenged by the management to improve the monthly  revenue sales, as the previous month's record was barely reached the target. A data scientist was appointed also to collaborate in this project. Given the data, how can we improve the revenue sales?
 
 ### Machine learning objective :
 
@@ -16,17 +17,26 @@ Improve customer's buying rate through product recommendation and personalized p
 ### Data used : <br>
 __Customer Data__   -> 2.245 rows & 8 columns <br>
 __Sales Data__      -> 49.894 rows & 14 columns <br>
-__Product & Inventory Data__ ->  2 tables :  <br>
+__Product & Inventory Data__ <br>
+2 tables :  <br>
 88 rows & 14 columns <br>
 307 rows & 7 columns <br><br>
 
+__Source :__ <br>
+Coffee Shop Dummy Data  from IBM Cognos <br><br>
+
 
 ### Unsupervised machine learning :
-#### 1. Content-based recommender system
-
-
 ![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/recommender.png)
+#### 1. Content-based recommender system
+![alt text]()
 
+#### 2. Collaborative filtering recommender system
+![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/Collaborative%20filtering.png)
+
+#### 3. Customer segmentation
+Use K-Means clustering to determine the cluster of the customers. Number of K was taken from elbow method score and silhouette score (K=4).
+Below is the clustering result :
 <br><br>
 
 ### Web-app dashboard :
@@ -34,8 +44,8 @@ __Product & Inventory Data__ ->  2 tables :  <br>
 
 <br>
 
-__Link Dashboard :__
-arabica.raissadevy.com
+__Link Dashboard :__ <br>
+arabica.raissadevy.com <br>
 -> register with your email, log in with your username and password
 
 
