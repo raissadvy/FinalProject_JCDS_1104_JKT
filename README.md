@@ -26,6 +26,10 @@ __Source :__ <br>
 Coffee Shop Dummy Data  from IBM Cognos <br><br>
 
 
+### Data processing :
+1. 
+![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/Screen%20Shot%202021-03-03%20at%2015.02.33.png)
+
 ### Unsupervised machine learning :
 ![alt text](https://github.com/raissadvy/FinalProject_JCDS_1104_JKT/blob/main/recommender.png)
 #### 1. Content-based recommender system
